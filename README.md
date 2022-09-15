@@ -4,4 +4,4 @@ Mi primer repositorio
 
 I like 🍕, ⚽, 🎮
 
-I love also :sunny: , :hamburger: and :chocolate:
+I love also :sunny: , :hamburger: and 🍫
